@@ -1,0 +1,12 @@
+{
+  "name": "echo-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node e2e.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.65.1"
+  }
+}
